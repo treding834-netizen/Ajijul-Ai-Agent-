@@ -1,7 +1,11 @@
 {
   "versionCode": 30,
   "versionName": "3.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/treding834-netizen/Ajijul-Ai-Agent-/main/Ajijul-Ai-v2.9.apk",
-  "force": true,
-  "message": "Full neon cyber-anime redesign: anime hero, aurora + moon skyline, rainbow glow nav, glass cards and a new app icon."
+  "apkUrl": "https://raw.githubusercontent.com/
+     treding834-netizen/Ajijul-Ai-Agent-/main/
+     Ajijul-Ai-v3.0.0.apk",
+       "force": true,
+       "message": "v3.0: one permanent AI brain,
+     one continuous history, memory survives modes/
+     restarts, ZIP backup and restore, smaller APK."
 }
