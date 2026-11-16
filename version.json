@@ -1,6 +1,1 @@
-{"versionCode":33,"versionName":"3.0.3",
-     "apkUrl":"https://raw.githubusercontent.com/
-     treding834-netizen/Ajijul-Ai-Agent-/main/
-     Ajijul-Ai-v3.0.3.apk","force":true,"message":
-     "v3.0.3: ONNX wake word restored, custom voice,
-      SMS/notification fixes, 0.5s echo mute."}
+{"versionCode":33,"versionName":"3.0.3","apkUrl":"https://raw.githubusercontent.com/treding834-netizen/Ajijul-Ai-Agent-/main/Ajijul-Ai-v3.0.3.apk","force":true,"message":"v3.0.3: ONNX wake word restored, custom voice, SMS/notification announcements and auto-reply fixes, 0.5s echo mute."}
