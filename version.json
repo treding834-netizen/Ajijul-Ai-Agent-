@@ -1,1 +1,1 @@
-{"versionCode":39,"versionName":"3.0.9","apkUrl":"https://raw.githubusercontent.com/treding834-netizen/Ajijul-Ai-Agent-/main/Ajijul-Ai-v3.0.9.apk","force":true,"message":"v3.0.9: lower ONNX wake threshold for Hello Ajijul; quiet background research and 18+ mode kept."}
+{"versionCode":40,"versionName":"3.0.10","apkUrl":"https://raw.githubusercontent.com/treding834-netizen/Ajijul-Ai-Agent-/main/Ajijul-Ai-v3.0.10.apk","force":true,"message":"v3.0.10: wake word fix — mic audio no longer blocked during session, ONNX threshold lowered, wake engine auto-retry if it dies."}
