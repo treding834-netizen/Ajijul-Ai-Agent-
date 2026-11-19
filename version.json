@@ -1,1 +1,1 @@
-{"versionCode": 50, "versionName": "3.0.20", "apkUrl": "https://raw.githubusercontent.com/treding834-netizen/Ajijul-Ai-Agent-/main/Ajijul-Ai-v3.0.20.apk", "force": false, "message": "v3.0.20: recovery build — stable avatar restored, app-open reliability fix."}
+{"versionCode": 51, "versionName": "3.0.21", "apkUrl": "https://raw.githubusercontent.com/treding834-netizen/Ajijul-Ai-Agent-/main/Ajijul-Ai-v3.0.21.apk", "force": false, "message": "v3.0.21: self-diagnostic log (Download/Ajijul/debug.log), wake fallback after 2min silence, mic failure logs."}
